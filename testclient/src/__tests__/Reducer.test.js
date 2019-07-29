@@ -28,13 +28,12 @@ describe('add filter action', () => {
       MoviesReducer(teststate1, addFilter({ key: 'lang', value: 'English' })).filter
     ).toEqual({ lang: 'English' })
   })
-})
-
-describe('add filter action2', () => {
   it('should get movies', () => {
     expect(
       MoviesReducer(teststate2, addFilter({ key: 'genres', value: 'Drama' })).filter
     ).toEqual({ lang: 'English', genres: 'Drama' })
   })
 })
+
+
 
