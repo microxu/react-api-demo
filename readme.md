@@ -21,8 +21,9 @@ date: 2019-07-24
 
 ### 3. to install : npm install    to run : npm start 
 
-![image](https://github.com/microxu/ParrotTest/blob/master/images/1.jpg)
-![image](https://github.com/microxu/ParrotTest/blob/master/images/2.jpg)
+![image](https://github.com/microxu/chrisdemo/blob/master/images/1.jpg)
+
+![image](https://github.com/microxu/chrisdemo/blob/master/images/2.jpg)
 
 ----------
 
@@ -38,7 +39,7 @@ date: 2019-07-24
 ### 3.Restful APIs
 >you can get API information using the following address:  http://localhost:8080/swagger-ui.html
 
-![image](https://github.com/microxu/ParrotTest/blob/master/images/3.jpg)
+![image](https://github.com/microxu/chrisdemo/blob/master/images/3.jpg)
 
 ----------
 
